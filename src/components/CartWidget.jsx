@@ -1,6 +1,6 @@
-// src/components/CartWidget.js
+// src/components/CartWidget.jsx
 import React from "react";
-import { FaShoppingCart } from "react-icons/fa"; // Importar ícono de carrito
+import { FaShoppingCart } from "react-icons/fa"; // Asegúrate de que has instalado react-icons
 
 const CartWidget = () => {
   return (
@@ -12,3 +12,4 @@ const CartWidget = () => {
 };
 
 export default CartWidget;
+
